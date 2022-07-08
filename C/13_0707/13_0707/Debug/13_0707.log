@@ -1,0 +1,2 @@
+﻿c0707_02.obj : error LNK2019: _print_main 함수에서 참조되는 확인할 수 없는 외부 기호
+C:\IOT4\C\13_0707\Debug\13_0707.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.
